@@ -1,0 +1,22 @@
+#what we get from each data resource 
+WHO 
+TO WHOME 
+DATE
+TITLE
+PROJECT DETAILS
+<Gitlab>
+Created At --> Established Date
+Name
+UserName --> From Who
+Target ID  
+Target Title --> From Whome
+Date --> cannot find it 
+_________________________________________________________________________________________
+< Microsoft ES >
+Date + timezone : 
+"Start":{}
+"End":{} 
+Who:
+"organizer":{}
+Title:
+"Subject":{}
