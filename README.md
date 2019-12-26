@@ -1,4 +1,4 @@
-UC-middleware
+Unified Calender - Middleware
 
 This is a Unified calendar middlwear, that imports calendar data from diffrent data sources
 to be viewed and managed in one layerd view system.
